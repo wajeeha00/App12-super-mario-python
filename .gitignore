@@ -3,5 +3,5 @@
 /dist
 settings.json
 .idea/
-.env/
+env/
 *.DS_Store
